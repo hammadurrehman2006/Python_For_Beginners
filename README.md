@@ -24,12 +24,11 @@ Here’s the treasure map to your Python journey:
 ### Folder Structure
 
 📁 Python_For_Beginners
-├── 📜 README.md          <- You’re here!
-├── 📁 class-1           <- Variables, strings, numbers—let’s start easy!
-├── 📁 class-2           <- Loops and conditions to take charge
-├── 📁 class-3           <- Functions to level up your game
-├── 📁 mini-projects     <- Fun stuff to test your Python powers
-
+├── 📜 README.md <- You’re here!  
+├── 📁 class-1 <- Variables, strings, numbers—let’s start easy!  
+├── 📁 class-2 <- Loops and conditions to take charge  
+├── 📁 class-3 <- Functions to level up your game  
+├── 📁 mini-projects <- Fun stuff to test your Python powers
 
 ## 🚀 How to Get Started
 1. **Clone the Repo**:
